@@ -1,3 +1,6 @@
 .loading {
   display:none
 }
+.mobile-open {
+  transform: translateX(0) !important;
+}
